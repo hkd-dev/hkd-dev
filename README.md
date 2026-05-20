@@ -52,11 +52,9 @@ An AI-powered IELTS Speaking practice platform developed as part of a Backend Pr
 
 > More project details will be added as development progresses.
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkd-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkd-dev&layout=compact&theme=tokyonight)
+I'm currently building my GitHub profile by working on academic projects, frontend practice, and personal learning repositories.
 
 ## 📫 Connect with Me
 
