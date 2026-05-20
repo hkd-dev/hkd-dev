@@ -56,6 +56,17 @@ An AI-powered IELTS Speaking practice platform developed as part of a Backend Pr
 
 I'm currently building my GitHub profile by working on academic projects, frontend practice, and personal learning repositories.
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=hkd-dev&show_icons=true&locale=en&layout=compact" alt="hkd-dev" />
+    </td>
+    <td align="center" width="50%">
+      <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=hkd-dev&rank_icon=github" alt="hkd-dev" />
+    </td>
+  </tr>
+</table>
+
 ## 📫 Connect with Me
 
 - GitHub: [hkd-dev](https://github.com/hkd-dev)
